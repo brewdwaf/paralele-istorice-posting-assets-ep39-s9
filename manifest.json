@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "episode": "39-califatele-arabe",
+  "episode_slug": "ep39",
+  "generated_at": "2026-08-18T13:59:33.505333+00:00",
+  "include": [
+    "reels"
+  ],
+  "repo": "https://github.com/brewdwaf/paralele-istorice-posting-assets-ep39-s9.git",
+  "branch": "gh-pages",
+  "public_base_url": "https://brewdwaf.github.io/paralele-istorice-posting-assets-ep39-s9",
+  "assets": [
+    {
+      "name": "ep-39-short-9.mp4",
+      "relative_path": "ep39/ep-39-short-9.mp4",
+      "sha256": "6374a0d6ba74c5e07b7ab3a811521d09d24669585a2b44321bf9d595b0bdacee",
+      "size": 78339303,
+      "url": "https://brewdwaf.github.io/paralele-istorice-posting-assets-ep39-s9/ep39/ep-39-short-9.mp4",
+      "pages_repo": "https://github.com/brewdwaf/paralele-istorice-posting-assets-ep39-s9.git",
+      "pages_asset": "ep39/ep-39-short-9.mp4"
+    }
+  ]
+}
